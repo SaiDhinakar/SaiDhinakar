@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m currently pursuing a course in AI & ML and a
 
 - 🎓 I am a student currently pursuing a course in **AI & ML**.
 - 💼 I have experience with a variety of technologies and frameworks, including:
-  - **Programming Languages**: Python, JavaScript
+  - **Programming Languages**: Python, JavaScript, C
   - **Web Technologies**: HTML, CSS, Django, Flask
   - **Databases**: MongoDB, SQL, SQLite
 
