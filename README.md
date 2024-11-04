@@ -40,7 +40,7 @@ Feel free to reach out or connect with me on LinkedIn - https://www.linkedin.com
 
 ### 👨🏻‍💻 Portfolio
 
-    Link : https://saidhinakar.github.io/Portfolio/
+Link : https://saidhinakar.github.io/Portfolio/
     
 ---
 
