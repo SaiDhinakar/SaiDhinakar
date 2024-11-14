@@ -34,19 +34,6 @@ I aspire to become a Full Stack Developer, Machine Learning Engineer, or Softwar
 
 ---
 
-## 🖥️ **Featured Projects**
-
-🎯 **Project 1: AI Chatbot**  
-A dynamic AI-powered chatbot built with Python and Django, designed to interact with users and offer insightful conversation.
-
-💻 **Project 2: Portfolio Website**  
-A responsive portfolio website showcasing my technical projects, built with HTML, CSS, and JavaScript.
-
-🔧 **Project 3: Machine Learning Model**  
-An ML model trained on various datasets to predict outcomes based on user input, implemented in Python using scikit-learn.
-
----
-
 ## 📫 Connect with Me
 
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/saidhinakar-s)!  
