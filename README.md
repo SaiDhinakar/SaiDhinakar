@@ -48,7 +48,7 @@ Let's collaborate on exciting tech projects!
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiDhinakar-s&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiDhinakar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
