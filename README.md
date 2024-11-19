@@ -58,3 +58,5 @@ Let's collaborate on exciting tech projects!
 ---
 
 Thank you for visiting my profile! I'm always open to collaborating on projects or learning new technologies, so don't hesitate to get in touch!
+
+[![](https://visitcount.itsvg.in/api?id=spidey&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
