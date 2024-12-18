@@ -53,7 +53,7 @@ Let's collaborate on exciting tech projects!
 ---
 
 ## 🚀 **Languages & Tools**  
-![Languages](https://skillicons.dev/icons?i=python,js,html,css,flask,django,mongodb,sqlite,pyqt,c)
+![Languages](https://skillicons.dev/icons?i=python,js,html,css,flask,django,mongodb,sqlite,c)
 
 ---
 
