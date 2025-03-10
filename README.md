@@ -1,62 +1,53 @@
-# 👋 Hi there! I'm **Sai Dhinakar**  
-### 💻 Student | Aspiring Full Stack Developer | Machine Learning Enthusiast 
+# ✨ Hi there! I'm **Sai Dhinakar**  
+### 💻 AI & ML Enthusiast | Full Stack Developer | Problem Solver  
 
-Welcome to my GitHub profile! I’m currently pursuing a course in **AI & ML** and am passionate about developing efficient solutions and expanding my technical skills. Here, you'll find a mix of projects that showcase my interests and expertise in software development.
-
----
-
-## 🌟 About Me
-
-- 🎓 I am a student currently pursuing a course in **AI & ML**.
-- 💼 I have experience with a variety of technologies and frameworks, including:
-  - **Programming Languages**: Python, JavaScript, C
-  - **Web Technologies**: HTML, CSS, Django, Flask
-  - **Databases**: MongoDB, SQL, SQLite
+Welcome to my GitHub profile! I'm an **AI & ML enthusiast** passionate about full-stack development and problem-solving. I enjoy building **scalable and efficient** solutions using modern technologies and frameworks.
 
 ---
 
-## 🛠️ Skills
+## 🌟 About Me  
 
-### 🌐 **Web Development**
-Proficient in building dynamic and responsive web applications using HTML, CSS, and JavaScript with frameworks like Django and Flask.
-
-### 📊 **Database Management**
-Knowledgeable in SQL and NoSQL databases, capable of designing and managing databases effectively.
-
-### 🤖 **Machine Learning**
-Enthusiastic about machine learning concepts and eager to explore practical applications.
+- 🎓 Pursuing a course in **AI & Machine Learning**.  
+- 💪 Passionate about **Full Stack Development & AI/ML applications**.  
+- 🌐 Currently exploring **FastAPI and advanced ML techniques**.  
+- ⚙️ Always open to **collaborating** on exciting tech projects.  
 
 ---
 
-## 🎯 Goals
+## 🛠️ Tech Stack  
 
-I aspire to become a Full Stack Developer, Machine Learning Engineer, or Software Developer. I am eager to take on challenges that allow me to grow and contribute to innovative projects in the tech industry.
+### 🌐 **Web Development**  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Django, Flask, FastAPI  
 
----
+### 📊 **Database Management**  
+- SQL, SQLite3, MongoDB  
 
-## 📫 Connect with Me
+### 🧐 **Programming Languages**  
+- Python, C, JavaScript  
 
-Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/saidhinakar-s)!  
-Let's collaborate on exciting tech projects!
-
----
-
-## 🌍 **My Portfolio**
-
-🌐 [Visit my Portfolio](https://saidhinakar.github.io/Portfolio/)
+### 🤖 **Machine Learning & AI**  
+- Data Analysis, Model Training, Predictive Analytics  
 
 ---
 
-## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiDhinakar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 🔍 Featured Projects  
+- 🎨 **GUI-for-LLMs** - A modern and user-friendly GUI for interacting with Ollama's local LLMs, enabling seamless model retrieval and switching.
+- 🤖 **AI Timetable Scheduler** - Intelligent system for automatic timetable generation using ML.
+- 🚀 **Real-Time Face Matching** - Face recognition system with a live camera feed for identity verification.
 
 ---
 
-## 🚀 **Languages & Tools**  
-![Languages](https://skillicons.dev/icons?i=python,js,html,css,flask,django,mongodb,sqlite,c)
+## 🌟 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiDhinakar&show_icons=true&count_private=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDhinakar&layout=compact&theme=radical)  
 
 ---
 
-Thank you for visiting my profile! I'm always open to collaborating on projects or learning new technologies, so don't hesitate to get in touch!
+## 🌐 Connect with Me  
+- **LinkedIn:** [Sai Dhinakar](https://www.linkedin.com/in/saidhinakar-s)  
+- **Portfolio:** [Visit my Portfolio](https://saidhinakar.github.io/Portfolio/)  
 
-[![](https://visitcount.itsvg.in/api?id=spidey&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+---
+
+Thanks for stopping by! Let's build something amazing together. ✨
