@@ -2,10 +2,8 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20%7C%20ML%20%7C%20Full%20Stack&fontSize=40&fontAlignY=35&animation=fadeIn"/>
-
-### Building intelligent solutions at the intersection of AI and web development
-
-<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="center" height="200" />
+<br />
+<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="center" height="225" width="250"/>
 
 </div>
 
