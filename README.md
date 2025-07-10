@@ -2,8 +2,12 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20%7C%20ML%20%7C%20Full%20Stack&fontSize=40&fontAlignY=35&animation=fadeIn"/>
-<br />
-<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="center" height="225" width="250"/>
+  <br />
+  <h3>Building intelligent solutions at the intersection of AI and web development</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidhinakar-s)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=react&logoColor=white)](https://saidhinakar.github.io/Portfolio/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiDhinakar)
 
 </div>
 
