@@ -97,7 +97,7 @@ me.say_hi()
 
 <p align="center">
   <a href="https://open.spotify.com/user/31icaex45ndeh4l7fnsdv5y3cuaa">
-    <img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+    <img src="https://spotify-now-playing-two-fawn.vercel.app/api/spotify-now-playing" alt="Spotify Now Playing" width="350" />
   </a>
 </p>
 
