@@ -6,7 +6,7 @@
   <h3>Building intelligent solutions at the intersection of AI and web development</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidhinakar-s)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=react&logoColor=white)](portfolio-smoky-psi-62.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=react&logoColor=white)](https://portfolio-smoky-psi-62.vercel.app)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiDhinakar)
 
 </div>
@@ -136,7 +136,7 @@ me.say_hi()
   <a href="https://www.linkedin.com/in/saidhinakar-s">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="portfolio-smoky-psi-62.vercel.app">
+  <a href="https://portfolio-smoky-psi-62.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="mailto:saidhinakars899@gmail.com">
