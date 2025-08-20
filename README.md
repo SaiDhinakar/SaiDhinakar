@@ -4,11 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20%7C%20ML%20%7C%20Full%20Stack&fontSize=40&fontAlignY=35&animation=fadeIn"/>
   <br />
   <h3>Building intelligent solutions at the intersection of AI and web development</h3>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidhinakar-s)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=react&logoColor=white)](https://saidhinakar.me/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaiDhinakar)
-
 </div>
 
 ---
@@ -79,6 +74,7 @@ me.say_hi()
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ### Tools & Platforms
@@ -87,6 +83,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
@@ -136,7 +133,7 @@ me.say_hi()
   <a href="https://www.linkedin.com/in/saidhinakar-s">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-smoky-psi-62.vercel.app">
+  <a href="https://saidhinakar.me">
     <img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="mailto:saidhinakars899@gmail.com">
