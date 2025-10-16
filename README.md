@@ -146,7 +146,7 @@ me.say_hi()
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
-**Thanks for visiting!** 🌟 Feel free to explore my work and reach out for collaboration.
+Feel free to explore my work and reach out for collaboration.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSaiDhinakar\&label=Visitors\&countColor=%23263759)
 
